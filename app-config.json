@@ -1,0 +1,14 @@
+{
+    "appid": "",
+    "secret": "",
+    "error_log": [
+        "/hy/verdaccio/log/verdaccio.log"
+    ],
+    "packages": [
+        ""
+    ],
+    "disks": [
+        "/hy/verdaccio"
+    ],
+    "agentidMode": ""
+}
